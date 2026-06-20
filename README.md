@@ -1,3 +1,7 @@
+![C++](https://img.shields.io/badge/C++-17-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![GitHub Repo Size](https://img.shields.io/github/repo-size/RItul56/Parking-Management-System)
+
 \# Parking Management System
 
 
