@@ -3,7 +3,7 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/RItul56/Parking-Management-System)
 ![Status](https://img.shields.io/badge/Status-Portfolio%20Ready-111827?style=for-the-badge)
 
-## Parking Management System
+# Parking Management System
 
 
 
@@ -47,7 +47,7 @@ Menu-driven interface
 
 
 
-## Project Structure
+# Project Structure
 
 
 
@@ -90,9 +90,6 @@ Menu-driven interface
 - Automatic Rent Calculation
 
 - Vehicle Search Feature
-
-## GUI Version
-
 
 
 ## Author
