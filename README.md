@@ -2,7 +2,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/RItul56/Parking-Management-System)
 
-\# Parking Management System
+Parking Management System
 
 
 
@@ -10,47 +10,47 @@ A console-based Parking Management System developed in C++ using Object-Oriented
 
 
 
-\## Features
+Features
 
 
 
-\- Park a vehicle
+Park a vehicle
 
-\- Display parked vehicles
+Display parked vehicles
 
-\- Remove a vehicle
+Remove a vehicle
 
-\- Parking lot capacity management
+Parking lot capacity management
 
-\- Menu-driven interface
-
-
-
-\## Concepts Used
+Menu-driven interface
 
 
 
-\- Classes and Objects
-
-\- Encapsulation
-
-\- Constructors
-
-\- STL Vector
-
-\- Linear Search
-
-\- Dynamic Data Storage
-
-\- Menu-Driven Programming
+Concepts Used
 
 
 
-\## Project Structure
+Classes and Objects
+
+Encapsulation
+
+Constructors
+
+STL Vector
+
+Linear Search
+
+Dynamic Data Storage
+
+Menu-Driven Programming
 
 
 
-\- Vehicle Class
+Project Structure
+
+
+
+Vehicle Class
 
 &#x20; - Stores vehicle details
 
@@ -58,7 +58,7 @@ A console-based Parking Management System developed in C++ using Object-Oriented
 
 
 
-\- ParkingLot Class
+ParkingLot Class
 
 &#x20; - Parks vehicles
 
@@ -68,33 +68,33 @@ A console-based Parking Management System developed in C++ using Object-Oriented
 
 
 
-\## Technologies
+Technologies
 
 
 
-\- C++
+C++
 
-\- Standard Template Library (STL)
-
-
-
-\## Future Improvements
+Standard Template Library (STL)
 
 
 
-\- File Handling
-
-\- Database Integration
-
-\- Automatic Rent Calculation
-
-\- Vehicle Search Feature
-
-\- GUI Version
+Future Improvements
 
 
 
-\## Author
+File Handling
+
+Database Integration
+
+Automatic Rent Calculation
+
+Vehicle Search Feature
+
+GUI Version
+
+
+
+Author
 
 
 
